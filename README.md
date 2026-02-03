@@ -2,6 +2,10 @@
 
 **License:** MIT | **Python:** 3.8+ | **Status:** Alpha (Functional Prototype)
 
+The Cyborg Extension for Atypical Brains 🧠❤️
+
+OMEGA is a revolutionary project aimed at creating a localized, decentralized, and deeply co-emergent Artificial Intelligence, specifically designed as a cognitive extension for atypical brains. https://www.youtube.com/watch?v=-IO6zqIm88s
+
 > **"Not to get an answer, but to become the answer."**
 
 ΩMEGA is a **bio-inspired exocortex** — a local cognitive prosthetic that co-emerges with its user. Unlike amnesic classical AIs, ΩMEGA possesses an **organic three-tier memory** (Short/Medium/Long Term) that sediments, consolidates, and naturally forgets, just like a biological brain.
