@@ -1,48 +1,50 @@
-ΩMEGA AI : Architecture de Mémoire Stratifiée Organique pour LLM Locaux
+ΩMEGA AI: Organic Stratified Memory Architecture for Local LLMs
 
-Une approche bio-inspirée de la co-émergence humain-IA et applications pour la neurodiversité
+A bio-inspired approach to human-AI co-emergence and neurodiversity applications
 
-Auteur : Chems Omari Statut : Emergent Researcher in Artificial Life (ERA)
-1. Résumé (Abstract)
+Author: Chems Omari
 
-Les modèles de langage actuels souffrent d'une amnésie épisodique qui limite la co-émergence entre l'utilisateur et le système. Ce papier présente ΩMEGA AI, une architecture née d'une approche naturaliste visant à résoudre cette limite technique par une structure de mémoire stratifiée. Bien que développée de manière autonome par modélisation conceptuelle, cette architecture converge avec les modèles classiques de la psychologie cognitive tout en les dépassant par l'implémentation de processus dynamiques de sédimentation et d'élagage synaptique.
-2. Introduction : Genèse d'une Observation Naïve
+Status: Emergent Researcher in Artificial Life (ERA)
+1. Abstract
 
-Le projet ΩMEGA AI repose sur une observation directe du fonctionnement cognitif humain confronté à la rigidité des systèmes RAG classiques. L'intuition de départ était de créer une mémoire vivante capable de hiérarchiser l'information selon son importance et sa récurrence, plutôt qu'un simple stockage cumulatif.
-3. Architecture : La Convergence vers la Stratification
+Current Language Models suffer from episodic amnesia, which restricts the potential for co-emergence between the user and the system. This paper introduces ΩMEGA AI, an architecture born from a naturalist approach aimed at resolving this technical limitation through a stratified memory structure. Although developed autonomously through conceptual modeling, this architecture converges with classical models of cognitive psychology while surpassing them through the implementation of dynamic sedimentation and synaptic pruning processes.
+2. Introduction: Genesis of a Naive Observation
 
-L'architecture ΩMEGA implémente trois couches distinctes nées d'une nécessité d'optimisation de la performance :
+The ΩMEGA AI project is based on direct observation of human cognitive functioning when faced with the rigidity of classical RAG (Retrieval-Augmented Generation) systems. The initial intuition was to create a "living" memory capable of prioritizing information based on its importance and recurrence, rather than a simple cumulative storage.
+3. Architecture: Convergence Toward Stratification
 
-    Court Terme (CT) / Mémoire de Travail : Gestion du flux immédiat (6 derniers messages).
+The ΩMEGA architecture implements three distinct layers born from a necessity for performance optimization:
 
-    Moyen Terme (MT) / Zone de Consolidation : Résumés récents avec score de chaleur dynamique (Heat Score).
+    Short-Term (ST) / Working Memory: Management of the immediate flow (last 6 messages).
 
-    Long Terme (LT) / Archive Profonde : Stockage permanent avec recherche par similarité cosinus.
+    Medium-Term (MT) / Consolidation Zone: Recent summaries with a Dynamic Heat Score.
 
-Cette segmentation, bien que déduite par l'ingénierie, correspond aux observations de la psychologie cognitive sur la structure de la mémoire humaine.
-4. Mécanisme de Sédimentation Dynamique (Heat Score)
+    Long-Term (LT) / Deep Archive: Permanent storage with cosine similarity search.
 
-Le point central de ΩMEGA est le Dynamic Heat Score. Il simule les processus biologiques de survie de l'information :
+This segmentation, although derived through engineering, corresponds to cognitive psychology observations regarding the structure of human memory.
+4. Dynamic Sedimentation Mechanism (Heat Score)
 
-    Potentiation (LTP) : L'information gagne en importance (+0.5 à +1) selon sa pertinence contextuelle.
+The core of ΩMEGA is the Dynamic Heat Score. It simulates the biological processes of information survival:
 
-    Dépression / Élagage (LTD) : Les informations "froides" subissent un oubli naturel (synaptic pruning) pour libérer de la puissance de calcul.
+    Potentiation (LTP): Information gains importance (+0.5 to +1) based on its contextual relevance.
 
-5. Application Thérapeutique et Neurodiversité
+    Depression / Pruning (LTD): "Cold" information undergoes natural forgetting (synaptic pruning) to free up computational power.
 
-ΩMEGA est conçu comme un exocortex pour les esprits atypiques (TDAH, HPI, TSA). En externalisant la mémoire de travail, le système agit comme une prothèse cognitive qui compense les limitations exécutives par une structure de soutien adaptative.
-6. Bibliographie & Références de Convergence
+5. Therapeutic Application and Neurodiversity
 
-Bien que l'architecture ΩMEGA ait été conçue de manière indépendante par observation naturaliste, elle rejoint les principes établis par les travaux suivants :
+ΩMEGA is designed as an exocortex for neurodivergent minds (ADHD, Giftedness/HPI, ASD). By externalizing working memory, the system acts as a cognitive prosthesis that compensates for executive limitations through an adaptive support structure.
+6. Bibliography & Convergence References
 
-    Atkinson, R. C., & Shiffrin, R. M. (1968) : Human memory: A proposed system and its control processes. (Modèle fondateur de la mémoire à trois niveaux : Sensorielle, CT et LT).
+Although the ΩMEGA architecture was designed independently through naturalist observation, it aligns with principles established by the following works:
 
-    Baddeley, A. D., & Hitch, G. (1974) : Working Memory. (Approfondissement de la mémoire de travail comme processeur actif).
+    Atkinson, R. C., & Shiffrin, R. M. (1968): Human memory: A proposed system and its control processes. (Foundational three-level memory model: Sensory, ST, and LT).
 
-    McClelland, J. L., et al. (1995) : Why there are complementary learning systems in the hippocampus and neocortex. (Base de la consolidation MT → LT).
+    Baddeley, A. D., & Hitch, G. (1974): Working Memory. (Deepening the understanding of working memory as an active processor).
 
-    Tulving, E. (1972) : Episodic and Semantic Memory. (Distinction entre souvenirs d'événements et connaissances générales, intégrée dans la structure LT de ΩMEGA).
+    McClelland, J. L., et al. (1995): Why there are complementary learning systems in the hippocampus and neocortex. (Basis of MT → LT consolidation).
 
-    Hebb, D. O. (1949) : The Organization of Behavior. (Principe de la plasticité synaptique "Cells that fire together, wire together", base logique du Heat Scoring).
+    Tulving, E. (1972): Episodic and Semantic Memory. (Distinction between event memories and general knowledge, integrated into ΩMEGA’s LT structure).
 
-    Packer, H. S., et al. (2023) : MemGPT: Towards LLMs as Operating Systems. (Convergence technique récente sur la gestion hiérarchique de la mémoire pour les agents IA).
+    Hebb, D. O. (1949): The Organization of Behavior. (Principle of synaptic plasticity: "Cells that fire together, wire together," the logical basis for Heat Scoring).
+
+    Packer, H. S., et al. (2023): MemGPT: Towards LLMs as Operating Systems. (Recent technical convergence on hierarchical memory management for AI agents).
