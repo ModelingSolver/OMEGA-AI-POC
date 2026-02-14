@@ -46,3 +46,4 @@ Bien que l'architecture ΩMEGA ait été conçue de manière indépendante par o
     Hebb, D. O. (1949) : The Organization of Behavior. (Principe de la plasticité synaptique "Cells that fire together, wire together", base logique du Heat Scoring).
 
     Packer, H. S., et al. (2023) : MemGPT: Towards LLMs as Operating Systems. (Convergence technique récente sur la gestion hiérarchique de la mémoire pour les agents IA).
+    Packer, H. S., et al. (2023) : MemGPT: Towards LLMs as Operating Systems. (Convergence technique récente sur la gestion hiérarchique de la mémoire pour les agents IA).
