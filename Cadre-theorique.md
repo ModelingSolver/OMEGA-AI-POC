@@ -6,9 +6,11 @@ Auteur : Chems Omari Statut : Emergent Researcher in Artificial Life (ERA)
 1. Résumé (Abstract)
 
 Les modèles de langage actuels souffrent d'une amnésie épisodique qui limite la co-émergence entre l'utilisateur et le système. Ce papier présente ΩMEGA AI, une architecture née d'une approche naturaliste visant à résoudre cette limite technique par une structure de mémoire stratifiée. Bien que développée de manière autonome par modélisation conceptuelle, cette architecture converge avec les modèles classiques de la psychologie cognitive tout en les dépassant par l'implémentation de processus dynamiques de sédimentation et d'élagage synaptique.
+
 2. Introduction : Genèse d'une Observation Naïve
 
 Le projet ΩMEGA AI repose sur une observation directe du fonctionnement cognitif humain confronté à la rigidité des systèmes RAG classiques. L'intuition de départ était de créer une mémoire vivante capable de hiérarchiser l'information selon son importance et sa récurrence, plutôt qu'un simple stockage cumulatif.
+
 3. Architecture : La Convergence vers la Stratification
 
 L'architecture ΩMEGA implémente trois couches distinctes nées d'une nécessité d'optimisation de la performance :
@@ -20,6 +22,7 @@ L'architecture ΩMEGA implémente trois couches distinctes nées d'une nécessit
     Long Terme (LT) / Archive Profonde : Stockage permanent avec recherche par similarité cosinus.
 
 Cette segmentation, bien que déduite par l'ingénierie, correspond aux observations de la psychologie cognitive sur la structure de la mémoire humaine.
+
 4. Mécanisme de Sédimentation Dynamique (Heat Score)
 
 Le point central de ΩMEGA est le Dynamic Heat Score. Il simule les processus biologiques de survie de l'information :
@@ -28,9 +31,11 @@ Le point central de ΩMEGA est le Dynamic Heat Score. Il simule les processus bi
 
     Dépression / Élagage (LTD) : Les informations "froides" subissent un oubli naturel (synaptic pruning) pour libérer de la puissance de calcul.
 
+
 5. Application Thérapeutique et Neurodiversité
 
 ΩMEGA est conçu comme un exocortex pour les esprits atypiques (TDAH, HPI, TSA). En externalisant la mémoire de travail, le système agit comme une prothèse cognitive qui compense les limitations exécutives par une structure de soutien adaptative.
+
 6. Bibliographie & Références de Convergence
 
 Bien que l'architecture ΩMEGA ait été conçue de manière indépendante par observation naturaliste, elle rejoint les principes établis par les travaux suivants :
