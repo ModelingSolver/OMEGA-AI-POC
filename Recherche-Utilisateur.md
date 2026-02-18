@@ -213,3 +213,20 @@ Le système de mémoire CT/MT/LT avec Heat Score est validé comme essentiel :
 *OMEGA-AI Recherche Utilisateur — En cours*  
 *GitHub : https://github.com/ModelingSolver/OMEGA-AI-POC*  
 *Contact : chems.omari.simplon@gmail.com*
+
+
+👤 Profil Participant #3 : Fabian Âge : 30 ans. 
+
+Activité : Informatique (Support technique). 
+Formation : Bac +3 (Bachelor Tech). 
+Diagnostic : TDAH (diagnostiqué à 11 ans). 
+
+Souffrance perçue : 5-6 / 10 (Moyenne réelle). 
+
+🧠 Défis Identifiés Le paradoxe de l'attention : Oscille entre l'hyperfocus et l'incapacité totale à se concentrer sur des sujets d'apprentissage (ex: programmation). 
+Le problème de l'allumage ("Ignition") : Difficulté majeure à amorcer une tâche (problème de motivation initiale). 
+Maintien de l'effort : Difficulté à rester sur la durée une fois lancé. Social : Contrairement à Théo, il ne rapporte pas de difficultés sociales particulières. 
+
+🛠️ Stratégies et Besoins Outils actuels : Utilise des Post-its physiques partout (écran, environnement), mais cela nécessite déjà un effort d'attention pour les consulter. Leviers de motivation : La musique agit comme un régulateur de focus et de motivation. Besoins exprimés : * Un "partenaire de pensée" pour l'aider à démarrer et à rester concentré. Un système de rappels ou un "compagnon psychologique" qui challenge l'utilisateur. Une "prothèse cognitive" pour l'allumage (start) et la continuité. 
+
+💡 Philosophie Personnelle Kaizen (Amélioration continue) : "Essayer d'être meilleur chaque jour". Il valorise les petits progrès constants.
