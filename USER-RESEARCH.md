@@ -213,3 +213,44 @@ The CT/MT/LT memory system with Heat Score is validated as essential:
 *OMEGA-AI User Research — Ongoing*  
 *GitHub: https://github.com/ModelingSolver/OMEGA-AI-POC*  
 *Contact: chems.omari.simplon@gmail.com*
+
+
+ 👤 Participant Profile #3: Fabian
+
+Age: 30
+
+Occupation: IT (Technical Support)
+
+Education: Bachelor’s degree (Tech)
+
+Diagnosis: ADHD (diagnosed at age 11)
+
+Perceived distress: 4 / 10 (Moderate) ( max 8 for hours, min 4 )
+
+🧠 Identified Challenges
+
+The attention paradox: Alternates between hyperfocus and a complete inability to concentrate on learning topics (e.g., programming).
+
+The “ignition” problem: Major difficulty initiating tasks (initial motivation barrier).
+
+Sustaining effort: Difficulty maintaining focus and consistency over time once started.
+
+Social: Unlike Théo, he does not report any particular social difficulties.
+
+🛠️ Strategies and Needs
+
+Current tools: Uses physical Post-its everywhere (on his screen, around his environment), but this already requires attention effort to check them.
+
+Motivation levers: Music acts as a focus and motivation regulator.
+
+Expressed needs:
+
+A “thinking partner” to help him get started and stay focused.
+
+A reminder system or a “psychological companion” that challenges the user.
+
+A “cognitive prosthesis” for task initiation (starting) and continuity.
+
+💡 Personal Philosophy
+
+Kaizen (Continuous Improvement): “Trying to be better every day.” He values small, consistent progress. 
