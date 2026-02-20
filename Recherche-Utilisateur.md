@@ -271,3 +271,32 @@ Maintien de l'effort : Difficulté à rester sur la durée une fois lancé. Soci
 🛠️ Stratégies et Besoins Outils actuels : Utilise des Post-its physiques partout (écran, environnement), mais cela nécessite déjà un effort d'attention pour les consulter. Leviers de motivation : La musique agit comme un régulateur de focus et de motivation. Besoins exprimés : * Un "partenaire de pensée" pour l'aider à démarrer et à rester concentré. Un système de rappels ou un "compagnon psychologique" qui challenge l'utilisateur. Une "prothèse cognitive" pour l'allumage (start) et la continuité. 
 
 💡 Philosophie Personnelle Kaizen (Amélioration continue) : "Essayer d'être meilleur chaque jour". Il valorise les petits progrès constants.
+
+
+Participant #4 - Synthèse du Questionnaire
+
+    Tranche d'âge : 25-34 ans
+
+    Diagnostics : Haut Potentiel Intellectuel (HPI) / Trouble du Spectre de l'Autisme (TSA)
+
+    Niveau d'impact au quotidien : 8 / 10
+
+    Top 3 des difficultés quotidiennes :
+
+        Organisation
+
+        Gestion des émotions
+
+        Interactions sociales / relationnelles
+
+    Outils actuels : Agenda papier, applications mobiles, rappels/notifications.
+
+    Ce qui manque actuellement :
+
+        "Une aide extérieure, car ma situation de vie va changer et je suis déjà fatigué(e) à l'avance à l'idée de devoir réorganiser ma vie."
+
+    Intéressé(e) par une mémoire externe pour les infos importantes ? Oui.
+
+    Préférence de stockage : Cloud (Nuage).
+
+    Souhaite devenir Bêta-testeur/teuse : Oui.
