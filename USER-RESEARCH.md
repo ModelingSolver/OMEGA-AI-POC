@@ -25,6 +25,47 @@ Understand specific cognitive needs, pain points, and tool expectations to infor
 
 ---
 
+Participant #0 – Lead Researcher & Subject (Self-Observation)
+Submission Date
+Feb 20, 2026, 2:21 PM
+
+What is your age range?
+45–54 years old
+
+Do you have one or more diagnoses?
+Giftedness (High Intellectual Potential – HPI)
+ADHD (Attention Deficit Hyperactivity Disorder)
+ASD (Autism Spectrum Disorder)
+
+What is the level of impact on your daily life? (1 = very low, 10 = very high)
+8 / 10
+
+What are your 3 main daily difficulties?
+Concentration
+Emotional regulation
+Social/relational interactions
+
+What tools are you currently using to help yourself?
+None
+
+What is currently missing to better manage your difficulties?
+Listening, love, and understanding…
+And, ideally, a harmonious world…
+
+Would you be interested in an external memory for your important information?
+Maybe
+
+Would you prefer your data to be stored locally or in the cloud?
+Locally (on my device)
+
+Would you like to participate as a beta tester?
+Maybe
+
+What would be your dream feature in an app like OMEGA Fit?
+A super-intelligent, non-amnesic LLM that would be my companion and support.
+
+___
+
 ## Participant #1 — "Theo"
 
 **Profile**
