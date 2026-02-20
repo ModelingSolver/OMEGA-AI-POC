@@ -295,3 +295,30 @@ A “cognitive prosthesis” for task initiation (starting) and continuity.
 💡 Personal Philosophy
 
 Kaizen (Continuous Improvement): “Trying to be better every day.” He values small, consistent progress. 
+
+
+Participant #4 - Survey Translation
+
+    Age group: 25-34 years old
+
+    Diagnosis: Gifted (HPI) / Autism Spectrum Disorder (ASD)
+
+    Daily Impact Level: 8 / 10
+
+    Top 3 Daily Challenges:
+
+        Organization
+
+        Emotional Regulation
+
+        Social/Relational Interactions
+
+    Current Tools: Paper planner, Mobile apps, Reminders/Notifications
+
+    What is currently missing: > "An external source of help/support, because my life situation is about to change and I am already exhausted just thinking about having to reorganize my life."
+
+    Interested in an external memory for important info? Yes
+
+    Storage Preference: Cloud
+
+    Wants to be a Beta Tester? Yes
