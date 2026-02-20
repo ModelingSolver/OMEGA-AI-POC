@@ -25,6 +25,47 @@ Comprendre les besoins cognitifs spécifiques, les points de souffrance, et les 
 
 ---
 
+Participant #0 – Chercheur principal & sujet (auto-observation)
+Date de soumission
+20 février 2026, 14:21
+
+Quelle est votre tranche d’âge ?
+45–54 ans
+
+Avez-vous un ou plusieurs diagnostics ?
+Haut Potentiel Intellectuel (HPI)
+TDAH (Trouble Déficit de l’Attention avec ou sans Hyperactivité)
+TSA (Trouble du Spectre de l’Autisme)
+
+Quel est le niveau d’impact sur votre quotidien ? (1 = très faible, 10 = très fort)
+8 / 10
+
+Quelles sont vos 3 principales difficultés au quotidien ?
+Concentration
+Régulation des émotions
+Relations / interactions sociales
+
+Quels outils utilisez-vous actuellement pour vous aider ?
+Aucun
+
+Qu’est-ce qui vous manque actuellement pour mieux gérer vos difficultés ?
+De l’écoute, de l’amour et de la compréhension…
+Et, idéalement, un monde harmonieux…
+
+Seriez-vous intéressé(e) par une mémoire externe pour vos informations importantes ?
+Peut-être
+
+Préférez-vous que vos données soient stockées localement ou dans le cloud ?
+Localement (sur mon appareil)
+
+Souhaitez-vous participer en tant que bêta-testeur / bêta-testeuse ?
+Peut-être
+
+Quelle serait la fonctionnalité de vos rêves dans une application comme OMEGA Fit ?
+Un LLM super intelligent, non amnésique, qui serait mon compagnon et mon soutien.**
+
+---
+
 ## Participant #1 — "Theo"
 
 **Profil**
