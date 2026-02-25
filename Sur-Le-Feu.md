@@ -48,3 +48,60 @@ Cette roadmap s'aligne sur nos engagements :
     Impact Social : Focus spécifique sur l'accessibilité cognitive et la neuro-inclusion.
 
     Science Ouverte : Documentation du processus de co-émergence entre esprits atypiques et mémoire stratifiée d'IA.
+
+
+25/02/2026
+    ΩMEGA AI — Roadmap Sprint 1 Mois
+Objectif : Passer de POC fonctionnel à projet scientifiquement crédible
+
+Semaine 1 — Stabilité & Performance
+
+Optimiser la gestion mémoire pour fonctionner correctement sur petit matériel
+Implémenter le Temporal Decay (dégradation temporelle du heat score)
+Logging propre : chaque opération mémoire tracée et mesurable
+
+Semaine 2 — Benchmarks & Métriques
+
+Définir les métriques clés :
+
+Latence de rappel (ST / MT / LT)
+Pertinence des souvenirs injectés en contexte (score cosine moyen)
+Consommation RAM selon le modèle LLM utilisé
+Taux de pruning vs taux de consolidation sur session longue
+
+
+Benchmark comparatif vs MemGPT sur scénarios identiques
+Documenter les résultats bruts dans /benchmarks/
+
+Semaine 3 — GUI Minimale & User Research
+
+Interface Streamlit ou Gradio minimaliste :
+
+Fenêtre conversation
+Visualisation Memory Heatmap (ST/MT/LT en temps réel)
+Indicateur de heat score visible
+
+
+Finaliser les entretiens user research (objectif : 8-10 participants)
+Synthèse des patterns HPI / TSA / TDAH
+
+Semaine 4 — Documentation & Outreach
+
+README mis à jour avec benchmarks et résultats
+Rédaction synthèse user research publiable (anonymisée)
+Dossier NLNet finalisé
+Relance LPNC/GIN Grenoble avec résultats concrets en main
+Préparer le pitch : ΩMEGA vs MemGPT en 5 slides
+
+
+Livrable Final (J+30)
+
+ΩMEGA stable sur Mistral/Llama 3.1 sur PC modeste
+Benchmark documenté vs MemGPT
+GUI minimale fonctionnelle
+User research complète (10 participants)
+Dossier prêt pour collaboration académique
+
+
+"On revient dans un mois quand on aura mis sa race à MemGPT."
+— Fish, Architecte Organique
