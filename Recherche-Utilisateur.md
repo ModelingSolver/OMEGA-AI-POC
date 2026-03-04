@@ -357,3 +357,71 @@ Fonctionnalité Rêvée
 Profil à accompagner différemment — onboarding doux indispensable. Le potentiel d'adoption est là (impact 8/10) mais nécessite une découverte progressive.
 Préférence stockage : Cloud
 Beta-testeur : Peut-être
+
+
+OMEGA-AI — Synthèse Recherche Utilisateur
+7 Participants | P0 → P6 | Février-Mars 2026
+
+Vue d'ensemble
+#DiagnosticÂgeImpactBetaP0HPI + TDAH + TSA45-548/10Peut-êtreP1TSA28n/dOuiP2TDAH4410/10n/dP3TDAH305-6/10n/dP4HPI + TSA25-348/10OuiP5HPI45-548/10OuiP6TDAH55+8/10Peut-être
+Impact moyen : 8/10 — cohérent, fort, non anecdotique.
+
+Patterns Transversaux
+1. La souffrance sociale est universelle
+Sans exception, tous les profils — TSA, TDAH, HPI — expriment une forme de souffrance dans le rapport aux autres.
+
+P1 : incompris, trop direct
+P2 : isolement croissant, masking qui disparaît
+P4 : fatigue anticipatoire face aux changements sociaux
+P5 : relationnel/social dans le top 3
+P6 : "La tolérance d'autrui" — formulation la plus nue, la plus forte
+
+Signal : ΩMEGA comme espace non-jugeant est une exigence fonctionnelle, pas un détail.
+2. Les outils existants échouent tous
+Agenda papier, applis, rappels, notifications, coaching — présents chez presque tous. Résultat : abandon rapide ou saturation.
+
+P2 : tous les outils abandonnés
+P3 : post-its partout, mais demandent déjà trop d'effort
+P6 : outils minimalistes, pas d'adhésion
+
+Signal : Le problème n'est pas le manque d'outils. C'est l'inadaptation au profil cognitif. ΩMEGA doit s'adapter à l'utilisateur, pas l'inverse.
+3. La mémoire externe est désirée par tous
+6 sur 7 répondent "Oui" ou "Peut-être" à la mémoire externe.
+Signal : La continuité inter-sessions (mémoire CT/MT/LT + heat score) est validée comme besoin central sur l'ensemble de la cohorte.
+4. Le "compagnon" prime sur l'"outil"
+P0, P1, P3 utilisent spontanément les mots "compagnon", "partenaire de pensée", "prothèse cognitive". Jamais "application" ou "logiciel".
+Signal : Le positionnement produit est juste. ΩMEGA n'est pas une appli — c'est un compagnon cognitif.
+5. L'activation est le blocage primaire TDAH
+P2, P3 convergent : le problème n'est pas de savoir quoi faire — c'est de commencer.
+Signal : Module d'activation par micro-étapes = feature critique pour profils TDAH.
+
+Divergences Clés
+DimensionTSA (P1, P4)TDAH (P2, P3, P6)HPI (P0, P5)Douleur primaireCompréhension socialeAttention / activationSurcharge / mémoireRapport identitaireNaviguer, pas changerVeut être "réparé" (P2) / s'améliorer (P3)Sérénité, recadrageBesoin outilDécodeur social / verbalisationAncre cognitive / activationCalme + structure légèreOnboardingAutonomeProgressifAutonome
+
+Features Validées par la Recherche
+Critiques (présentes chez 5+ participants) :
+
+Mémoire continue inter-sessions (CT/MT/LT + heat score)
+Ton non-jugeant, espace safe
+Zéro friction d'onboarding
+
+Importantes (3-4 participants) :
+
+Module activation / initiation de tâche
+Recadrage émotionnel rapide ("sérénité courte" — P5)
+Décodeur de contexte social (P1, P4)
+
+À explorer (1-2 participants) :
+
+Compagnon de verbalisation (P1)
+Extension mémoire de travail conversationnelle (P2)
+Régulateur de focus par stimulation externe (P3 — musique)
+
+
+Conclusion
+7 profils, 3 diagnostics, 3 générations — et un seul besoin fondamental commun :
+Être compris sans effort. Être soutenu sans jugement. Ne pas avoir à tout réexpliquer.
+C'est exactement ce qu'un LLM local non-amnésique peut offrir.
+ΩMEGA répond à un vide réel, documenté, transversal.
+
+Recherche en cours — objectif 10 participants...
