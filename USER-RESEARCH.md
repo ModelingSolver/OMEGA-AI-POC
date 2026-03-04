@@ -322,3 +322,188 @@ Participant #4 - Survey Translation
     Storage Preference: Cloud
 
     Wants to be a Beta Tester? Yes
+
+
+## Participant #5 — HPI Senior Profile
+
+**Age range:** 45–54  
+**Diagnosis:** High Intellectual Potential (HPI)  
+**Daily impact:** 8 / 10
+
+### Identified Challenges
+
+- Memory / frequent forgetfulness
+- Emotional regulation
+- Social / relational difficulties
+
+### Current Tools
+
+Paper agenda, mobile app, reminders/notifications, coaching.
+
+### What's Missing
+
+*"Calm, lack of information, targeted exercises."*
+
+Organized, multi-tool profile — but saturated. The tools exist, they're not enough. The need is qualitative: mental calm, targeted exercises, lightweight external memory.
+
+### Expressed Needs
+
+- External memory for important information
+- Quick emotional reset
+- Gentle organizational structure
+
+### Dream Feature
+
+*"Management, organization, reminders, framing, short serenity mindset for quick reset."*
+
+### Tool Orientation
+
+Most concrete profile in terms of expectations — knows exactly what they want. Quick-reset module ("short serenity mindset") = new feature identified.
+
+**Storage preference:** Either  
+**Beta tester:** Yes
+
+---
+
+## Participant #6 — ADHD Senior Profile
+
+**Age range:** 55+  
+**Diagnosis:** ADHD (Attention Deficit Hyperactivity Disorder)  
+**Daily impact:** 8 / 10
+
+### Identified Challenges
+
+- Concentration
+- Emotional regulation
+- Hyperactivity
+
+### Current Tools
+
+Paper agenda, mobile app. Minimalist profile — few tools tested.
+
+### What's Missing
+
+*"The tolerance of others."*
+
+The most revealing answer in the entire research. It's not a tool that's missing — it's social suffering that dominates. The outside world is experienced as intolerant and unadapted.
+
+### Expressed Needs
+
+- Being understood without having to explain
+- A non-judgmental space
+- Emotional anchoring against hyperactivity
+
+### Dream Feature
+
+*"I don't know enough about it."*
+
+Profile requiring a different approach — gentle onboarding is essential. Adoption potential is there (impact 8/10) but requires progressive discovery.
+
+**Storage preference:** Cloud  
+**Beta tester:** Maybe
+
+---
+
+## Global Synthesis — 7 Participants | P0 → P6 | February–March 2026
+
+### Participant Overview
+
+**P0** — HPI + ADHD + ASD | 45–54 | Impact 8/10 | Beta: Maybe  
+**P1** — ASD | 28 | Beta: Yes  
+**P2** — ADHD | 44 | Impact 10/10  
+**P3** — ADHD | 30 | Impact 5–6/10  
+**P4** — HPI + ASD | 25–34 | Impact 8/10 | Beta: Yes  
+**P5** — HPI | 45–54 | Impact 8/10 | Beta: Yes  
+**P6** — ADHD | 55+ | Impact 8/10 | Beta: Maybe  
+
+> **Average impact: 8/10** — consistent, strong, non-anecdotal.
+
+---
+
+## Cross-cutting Patterns
+
+### 1. Social suffering is universal
+
+Without exception, all profiles — ASD, ADHD, HPI — express some form of suffering in their relationship with others. P1 feels misunderstood and too direct. P2 is progressively isolating. P4 expresses anticipatory fatigue at the idea of social reorganization. P5 places social/relational in their top 3. P6 gives the rawest answer in the entire research: *"The tolerance of others."*
+
+**Signal: ΩMEGA as a non-judgmental space is a functional requirement, not a UX detail.**
+
+### 2. Existing tools all fail
+
+Paper agendas, apps, reminders, notifications, coaching — present in almost every profile. Universal outcome: quick abandonment or saturation. P2 abandoned every tool tried. P3 uses post-its everywhere, but they already require too much attentional effort. P6 sticks to minimalist tools with no real adoption.
+
+**Signal: The problem is not the lack of tools. It's the mismatch with the cognitive profile. ΩMEGA must adapt to the user, not the other way around.**
+
+### 3. External memory is desired by all
+
+6 out of 7 participants answer "Yes" or "Maybe" to the external memory question.
+
+**Signal: Cross-session continuity (CT/MT/LT memory + heat score) is validated as a core need across the entire cohort.**
+
+### 4. "Companion" beats "tool"
+
+P0, P1 and P3 spontaneously use the words "companion", "thinking partner", "cognitive prosthesis". Never "app" or "software".
+
+**Signal: The product positioning is right. ΩMEGA is not an app — it's a cognitive companion.**
+
+### 5. Activation is the primary ADHD blocker
+
+P2 and P3 converge: the problem is not knowing what to do — it's starting.
+
+**Signal: Micro-step activation module = critical feature for ADHD profiles.**
+
+---
+
+## Profile Divergences
+
+### ASD Profile — P1, P4
+- Primary pain: social comprehension
+- Identity stance: navigate the world, not change
+- Tool need: social decoder + verbalization partner
+- Onboarding: autonomous
+
+### ADHD Profile — P2, P3, P6
+- Primary pain: attention + activation + executive functions
+- Identity stance: P2 wants to be "fixed", P3 wants continuous improvement (Kaizen)
+- Tool need: cognitive anchor + task initiation support
+- Onboarding: progressive, gentle, non-intrusive
+
+### HPI Profile — P0, P5
+- Primary pain: cognitive overload + memory
+- Identity stance: seeking serenity and mental reset
+- Tool need: calm + lightweight structure + external memory
+- Onboarding: autonomous
+
+---
+
+## Research-Validated Features
+
+**Critical — present in 5+ participants:**
+- Cross-session continuous memory (CT/MT/LT + heat score)
+- Non-judgmental tone, safe space
+- Zero-friction onboarding
+
+**Important — 3 to 4 participants:**
+- Activation / task initiation module
+- Quick emotional reset ("short serenity" — P5)
+- Social context decoder (P1, P4)
+
+**To explore — 1 to 2 participants:**
+- Verbalization companion (P1)
+- Conversational working memory extension (P2)
+- External focus regulator via stimulation — music (P3)
+
+---
+
+## Conclusion
+
+7 profiles, 3 diagnoses, 3 generations — and one single shared fundamental need:
+
+**To be understood without effort. To be supported without judgment. To never have to explain everything again.**
+
+That is exactly what a local, non-amnesiac LLM can offer.  
+ΩMEGA addresses a real, documented, cross-cutting gap.
+
+---
+
+*Research ongoing — target: 10 participants*  
