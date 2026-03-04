@@ -300,3 +300,60 @@ Participant #4 - Synthèse du Questionnaire
     Préférence de stockage : Cloud (Nuage).
 
     Souhaite devenir Bêta-testeur/teuse : Oui.
+
+  #Participant #5 — Profil HPI Senior
+Tranche d'âge : 45–54 ans
+Diagnostic : Haut Potentiel Intellectuel (HPI)
+Niveau d'impact au quotidien : 8 / 10
+Difficultés Identifiées
+
+Mémoire / oublis fréquents
+Gestion des émotions
+Relationnel / social
+
+Outils Actuels
+Agenda papier, application mobile, rappels/notifications, coaching/accompagnement.
+Ce qui Manque
+"Le calme, le manque d'informations, des exercices ciblés."
+Profil organisé, multi-outils, mais saturé. Les outils existent — ils ne suffisent pas. Le besoin est qualitatif : calme mental, exercices ciblés, mémoire externe légère.
+Besoins Exprimés
+
+Mémoire externe pour informations importantes
+Recadrage émotionnel rapide
+Structure organisationnelle douce
+
+Fonctionnalité Rêvée
+"Gestion, organisation, rappel, cadrage, Mindset sérénité courte pour recadrage."
+Orientation Outil
+Profil le plus concret dans ses attentes — sait exactement ce qu'il veut. Module de recadrage rapide ("mindset sérénité courte") = nouvelle feature identifiée.
+Préférence stockage : Peu importe
+Beta-testeur : Oui
+
+
+
+  #Participant #6 — Profil TDAH Senior
+Tranche d'âge : 55 ans et +
+Diagnostic : TDAH (Trouble Déficit de l'Attention / Hyperactivité)
+Niveau d'impact au quotidien : 8 / 10
+Difficultés Identifiées
+
+Concentration
+Gestion des émotions
+Hyperactivité
+
+Outils Actuels
+Agenda papier, application mobile. Profil minimaliste — peu d'outils testés.
+Ce qui Manque
+"La tolérance d'autrui."
+Réponse la plus révélatrice de toute la recherche. Ce n'est pas un outil qui manque — c'est la souffrance sociale qui domine. Le monde extérieur est vécu comme intransigent, non-adapté.
+Besoins Exprimés
+
+Être compris sans avoir à s'expliquer
+Un espace non-jugeant
+Ancrage émotionnel face à l'hyperactivité
+
+Fonctionnalité Rêvée
+"Je ne connais pas suffisamment."
+Profil à accompagner différemment — onboarding doux indispensable. Le potentiel d'adoption est là (impact 8/10) mais nécessite une découverte progressive.
+Préférence stockage : Cloud
+Beta-testeur : Peut-être
