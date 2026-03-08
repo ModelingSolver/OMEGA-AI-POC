@@ -464,4 +464,28 @@ C'est exactement ce qu'un LLM local non-amnésique peut offrir.
 
 ---
 
+## MAJ 08/03/2026
+
+## Participant #7 — Profil HPI Léger
+Tranche d'âge : 35–44 ans
+Diagnostic : Haut Potentiel Intellectuel (HPI)
+Niveau d'impact au quotidien : 2 / 10
+Date de soumission : 8 mars 2026
+Difficultés Identifiées
+Mémoire / oublis fréquents, gestion des émotions, relationnel / social.
+Outils Actuels
+Non renseigné.
+Ce qui Manque
+Non renseigné.
+Profil
+Impact le plus faible de toute la cohorte — tranche HPI sans comorbidité, fonctionnement globalement préservé. Les difficultés sont présentes mais légèrement vécues. Profil autonome, peu demandeur de soutien thérapeutique.
+Besoins Exprimés
+Mémoire externe légère. Outil esthétique et fonctionnel simultanément — refuse le compromis entre pratique et beau.
+Fonctionnalité Rêvée
+"Un calendrier personnalisable en couleurs et graphismes, pour ne pas avoir à choisir entre pratique et joli. Un gestionnaire de budget personnalisable aussi."
+Orientation Outil
+Profil organisationnel / esthétique — contraste net avec les profils à haute souffrance. Le besoin n'est pas une prothèse cognitive mais un environnement visuel adapté à ses préférences. Nouvelle dimension identifiée : la personnalisation esthétique comme levier d'adoption.
+Préférence stockage : Local
+Bêta-testeur : Oui
+
 *Recherche en cours — objectif 10 participants*  
