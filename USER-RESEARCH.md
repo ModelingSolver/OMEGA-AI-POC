@@ -506,4 +506,43 @@ That is exactly what a local, non-amnesiac LLM can offer.
 
 ---
 
+Update 08/03/2026
+Participant #7 — Mild Giftedness (HPI) Profile
+
+Age range: 35–44
+Diagnosis: High Intellectual Potential (HPI)
+Level of impact in daily life: 2 / 10
+Submission date: March 8, 2026
+
+Identified Difficulties
+Memory / frequent forgetfulness, emotional regulation, relational / social.
+
+Current Tools
+Not specified.
+
+What Is Missing
+Not specified.
+
+Profile
+Lowest impact profile in the entire cohort — HPI range without comorbidity, overall functioning largely preserved.
+Difficulties are present but experienced only mildly.
+Autonomous profile, with little demand for therapeutic support.
+
+Expressed Needs
+Light external memory support.
+A tool that is both aesthetic and functional — refuses the compromise between practicality and beauty.
+
+Dream Feature
+“A customizable calendar with colors and graphics, so I don’t have to choose between practical and pretty.
+A customizable budget manager as well.”
+
+Tool Orientation
+Organizational / aesthetic profile — a clear contrast with high-distress profiles.
+The need is not a cognitive prosthesis but a visual environment adapted to personal preferences.
+New dimension identified: aesthetic personalization as a lever for adoption.
+
+Storage preference: Local
+Beta tester: Yes
+
+
 *Research ongoing — target: 10 participants*  
