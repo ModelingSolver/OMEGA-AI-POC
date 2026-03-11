@@ -467,25 +467,70 @@ C'est exactement ce qu'un LLM local non-amnésique peut offrir.
 ## MAJ 08/03/2026
 
 ## Participant #7 — Profil HPI Léger
+
 Tranche d'âge : 35–44 ans
+
 Diagnostic : Haut Potentiel Intellectuel (HPI)
+
 Niveau d'impact au quotidien : 2 / 10
+
 Date de soumission : 8 mars 2026
+
 Difficultés Identifiées
 Mémoire / oublis fréquents, gestion des émotions, relationnel / social.
 Outils Actuels
 Non renseigné.
 Ce qui Manque
 Non renseigné.
+
 Profil
 Impact le plus faible de toute la cohorte — tranche HPI sans comorbidité, fonctionnement globalement préservé. Les difficultés sont présentes mais légèrement vécues. Profil autonome, peu demandeur de soutien thérapeutique.
+
 Besoins Exprimés
 Mémoire externe légère. Outil esthétique et fonctionnel simultanément — refuse le compromis entre pratique et beau.
+
 Fonctionnalité Rêvée
 "Un calendrier personnalisable en couleurs et graphismes, pour ne pas avoir à choisir entre pratique et joli. Un gestionnaire de budget personnalisable aussi."
+
 Orientation Outil
 Profil organisationnel / esthétique — contraste net avec les profils à haute souffrance. Le besoin n'est pas une prothèse cognitive mais un environnement visuel adapté à ses préférences. Nouvelle dimension identifiée : la personnalisation esthétique comme levier d'adoption.
+
 Préférence stockage : Local
+
 Bêta-testeur : Oui
+
+
+MAJ 11/03/2026
+## Participant #8 — Profil TDAH
+MAJ 11/03/2026
+
+Tranche d'âge : 25–34 ans
+
+Diagnostic : TDAH (Trouble Déficit de l'Attention / Hyperactivité)
+
+Niveau d'impact au quotidien : 8 / 10
+
+Date de soumission : 11 mars 2026
+
+Difficultés Identifiées
+Organisation, gestion des émotions, motivation.
+
+Outils Actuels
+Rappels / notifications, coaching / accompagnement.
+
+Ce qui Manque
+Un binôme.
+
+Fonctionnalité Rêvée
+"Me motiver tous les jours. Me remonter le moral lorsque je suis triste."
+
+Profil
+Impact fort (8/10) avec TDAH isolé. Triade classique : organisation, émotions, motivation. Seul support structuré déclaré = coaching humain. Le besoin est explicitement affectif — pas organisationnel. "Un binôme" signale une demande de présence et de régulation émotionnelle externe. Premier profil de la cohorte où OMEGA est pensé comme compagnon, pas comme outil.
+
+Nouvelles dimensions identifiées : régulation émotionnelle active comme fonction primaire, compagnonnage / présence perçue, motivation quotidienne comme besoin récurrent.
+
+Préférence stockage : Cloud
+
+Bêta-testeur : Peut-être
 
 *Recherche en cours — objectif 10 participants*  
