@@ -117,3 +117,12 @@ Dossier ready for academic collaboration
 
 “We’ll come back in a month once we’ve completely crushed MemGPT.”
 — Fish, Organic Architect
+
+
+
+
+NB — March 2026
+We are reaching the limits of our means. Hardware on its last legs, resources at a minimum, path walked alone.
+From here on, the project is carried by me alone.
+We don't let go.
+Strength and honor. 💪❤️
