@@ -507,7 +507,7 @@ That is exactly what a local, non-amnesiac LLM can offer.
 ---
 
 Update 08/03/2026
-Participant #7 — Mild Giftedness (HPI) Profile
+## Participant #7 — Mild Giftedness (HPI) Profile
 
 Age range: 35–44
 Diagnosis: High Intellectual Potential (HPI)
@@ -544,5 +544,27 @@ New dimension identified: aesthetic personalization as a lever for adoption.
 Storage preference: Local
 Beta tester: Yes
 
+
+Update 11 March 2026
+## Participant #8 — ADHD Profile Updated 03/11/2026
+
+Age range: 25–34 
+Diagnosis: ADHD (Attention Deficit Hyperactivity Disorder) 
+Daily impact level: 8 / 10 
+Submission date: March 11, 2026
+
+Identified Difficulties Organization, emotional regulation, motivation.
+
+Current Tools Reminders / notifications, coaching / accompaniment.
+
+What's Missing A buddy / co-pilot.
+
+Dream Feature "Motivate me every day. Lift my spirits when I'm feeling down."
+
+Profile High impact (8/10) with isolated ADHD. Classic triad: organization, emotions, motivation. Only declared structured support = human coaching. The need is explicitly affective — not organizational. "A buddy" signals a demand for presence and external emotional regulation. First profile in the cohort where OMEGA is conceived as a companion, not a tool.
+
+New dimensions identified: active emotional regulation as a primary function, companionship / perceived presence, daily motivation as a recurring need.
+
+Storage preference: Cloud Beta tester: Maybe
 
 *Research ongoing — target: 10 participants*  
