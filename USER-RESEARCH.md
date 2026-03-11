@@ -567,4 +567,50 @@ New dimensions identified: active emotional regulation as a primary function, co
 
 Storage preference: Cloud Beta tester: Maybe
 
+
+
+## Participant #9 
+
+— Dual Diagnosis Profile (ADHD + ASD)
+
+    Age Group: 35–44 years old
+
+    Diagnosis: ADHD + ASD (Autism Spectrum Disorder)
+
+    Daily Impact Level: 10 / 10
+
+    Submission Date: March 11, 2026
+
+Identified Difficulties
+
+Organization, emotional management, social/relational skills.
+Current Tools
+
+Paper planner, reminders / notifications.
+What is Missing
+
+Personalized advice.
+Profile
+
+Maximum impact (10/10). A complex profile combining the executive challenges of ADHD with the social and sensory barriers of ASD. Uses traditional tools (paper) but expresses constructive skepticism toward digital solutions: the app must do more than just "exist"—it must outperform analog tools through a radically practical UI (User Interface). Seeking tailored guidance rather than a simple information repository.
+Expressed Needs
+
+Local external memory. Need for personalized advice to navigate specific challenges. High expectations regarding interface ergonomics to justify moving away from paper.
+Dream Feature
+
+"A practical version of autism communication cards." (An augmentative communication tool to express needs or emotions when verbalizing is difficult or exhausting).
+Tool Orientation
+
+"Adaptive Support & Communication" Profile — OMEGA is expected to deliver on two fronts:
+
+    Alternative Communication: Integration of digitized AAC (Augmentative and Alternative Communication) functions.
+
+    Cognitive Efficiency: The UI must be designed to reduce mental load (sleek but ultra-functional design).
+
+New dimension identified: The app as a social mediator and direct communication tool, moving beyond the scope of simple task management.
+
+    Storage Preference: Local
+
+    Beta-tester: Yes
+
 *Research ongoing — target: 10 participants*  
