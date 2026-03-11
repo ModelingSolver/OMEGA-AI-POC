@@ -533,4 +533,47 @@ Préférence stockage : Cloud
 
 Bêta-testeur : Peut-être
 
+
+
+## Participant #9 — Profil Double Diagnostic (TDAH + TSA)
+
+    Tranche d'âge : 35–44 ans
+
+    Diagnostic : TDAH + TSA (Trouble du Spectre de l'Autisme)
+
+    Niveau d'impact au quotidien : 10 / 10
+
+    Date de soumission : 11 mars 2026
+
+Difficultés Identifiées
+
+Organisation, gestion des émotions, relationnel / social.
+Outils Actuels
+
+Agenda papier, rappels / notifications.
+Ce qui Manque
+
+Des conseils personnalisés.
+Profil
+
+Impact maximal (10/10). Profil complexe cumulant les défis exécutifs du TDAH et les barrières sociales/sensorielles du TSA. Utilise des outils traditionnels (papier) mais exprime un scepticisme constructif sur le numérique : l'application ne doit pas juste "exister", elle doit surclasser l'analogue par une UI (Interface Utilisateur) radicalement pratique. Cherche une guidance sur-mesure plutôt qu'un simple réceptacle d'informations.
+Besoins Exprimés
+
+Mémoire externe locale. Besoin de conseils personnalisés pour naviguer dans ses difficultés. Forte exigence sur l'ergonomie de l'interface pour justifier l'abandon du papier.
+Fonctionnalité Rêvée
+
+"Une version pratique des cartes de communication pour autiste." (Outil de suppléance à la communication pour exprimer des besoins ou émotions quand la parole est coûteuse ou impossible).
+Orientation Outil
+
+Profil "Soutien Adaptatif & Communication" — OMEGA est ici attendu sur deux fronts :
+
+    La communication alternative : Intégration de fonctions de type CAA (Communication Alternative et Augmentée) numérisées.
+
+    L'efficience cognitive : L'UI doit être pensée pour réduire la charge mentale (design épuré mais ultra-fonctionnel).
+    Nouvelle dimension identifiée : l'application comme médiateur social et outil de communication directe, dépassant le cadre de la simple gestion de tâches.
+
+    Préférence stockage : Local
+
+    Bêta-testeur : Oui
+
 *Recherche en cours — objectif 10 participants*  
