@@ -122,7 +122,7 @@ Dossier ready for academic collaboration
 
 
 NB — March 2026
-We are reaching the limits of our means. Hardware on its last legs, resources at a minimum, path walked alone.
-From here on, the project is carried by me alone.
-We don't let go.
+We are pushing the limits of what we have. Aging hardware, bare minimum resources. 
+This project now carries more than just me — people believe in it, people count on it. 
+We don't let go. 
 Strength and honor. 💪❤️
