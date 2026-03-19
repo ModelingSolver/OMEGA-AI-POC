@@ -112,4 +112,4 @@ NB — Mars 2026
 Nous touchons les limites de nos moyens. Matériel en fin de vie, ressources au minimum.
 Ce projet engage désormais bien plus que moi — des gens y croient, des gens comptent dessus.
 On lâche rien.
-Force et honneur. 💪❤️
+Force et résilience. 💪❤️
