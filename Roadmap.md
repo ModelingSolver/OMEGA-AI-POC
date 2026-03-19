@@ -125,4 +125,4 @@ NB — March 2026
 We are pushing the limits of what we have. Aging hardware, bare minimum resources. 
 This project now carries more than just me — people believe in it, people count on it. 
 We don't let go. 
-Strength and honor. 💪❤️
+Strength and resilience. 💪❤️
