@@ -8,7 +8,7 @@ Le constat : Pas de chichi, pas d'interface. Juste le moteur qui s'étouffe sur 
 
 
 
-🪵 26/03/2026 DEV LOG #02 : ΩMEGA — Efficience Mémorielle et Souveraineté Locale
+🪵 26/03/2026 DEV LOG #01 : ΩMEGA — Efficience Mémorielle et Souveraineté Locale
 
 Objectif : Validation d'une architecture à consommation mémoire constante pour LLM local (Mistral 7B) sur matériel grand public (Intel i7).
 📊 Analyse de Performance (Stress Test : 200 tours)
@@ -28,14 +28,6 @@ https://www.youtube.com/watch?v=Pev7Z3lxKQg
     Divergence du Recall : Échec du test de rappel suite à un conflit de chemin d'accès (désynchronisation entre l'environnement de test et la base de données de production).
 
     Latence I/O : Des pics à 60s ont été observés lors des phases critiques de compression simultanée à l'inférence.
-
-🛠 Roadmap v2.1 (Correctifs Immédiats)
-
-    Dédoublonnage par Cosine Similarity : Intégration d'un seuil de similarité avant l'insertion en LT pour garantir une base de données "High Signal".
-
-    Unification des Flux DB : Migration vers un flux JSON/SQLite unique pour empêcher toute divergence d'état entre les tests et l'usage réel.
-
-    Optimisation du Greffier : Raffinement des prompts de résumé pour réduire le nombre de tokens générés et abaisser la latence.
 
 Statut : Architecture validée. Optimisation logique en cours.
 Philosophie : Local-first. Privacy by design. Sobriété numérique. 🛡️
