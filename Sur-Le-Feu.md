@@ -113,3 +113,14 @@ Nous touchons les limites de nos moyens. Matériel en fin de vie, ressources au 
 Ce projet engage désormais bien plus que moi — des gens y croient, des gens comptent dessus.
 On lâche rien.
 Force et résilience. 💪❤️
+
+26/03/2026
+
+🛠 Roadmap v2.1 (Correctifs Immédiats)
+
+    Dédoublonnage par Cosine Similarity : Intégration d'un seuil de similarité avant l'insertion en LT pour garantir une base de données "High Signal".
+
+    Unification des Flux DB : Migration vers un flux JSON/SQLite unique pour empêcher toute divergence d'état entre les tests et l'usage réel.
+
+    Optimisation du Greffier : Raffinement des prompts de résumé pour réduire le nombre de tokens générés et abaisser la latence.
+
