@@ -10,8 +10,6 @@ Vidéo du run : Omega Benchpress - [YouTube](https://www.youtube.com/watch?v=Pev
 
 Note : Les échecs de rappel (Recall) sont dus à une purge complète de la base de données de test juste avant le run.
 
-Note : Les échecs de rappel (Recall) sont dus à une purge complète de la base de données de test juste avant le run.
-
 ## 📊 Summary of Records
 - **Max Conversations Rounds:** 200 (Confirmed 26/03/2026)
 - **RAM Floor:** 130 MB
