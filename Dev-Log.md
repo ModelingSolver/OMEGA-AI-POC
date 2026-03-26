@@ -6,23 +6,23 @@ Link: https://youtu.be/JtOW6oLL2MU
 The Reality: No fluff, no UI. Just the engine choking on a budget laptop. This is the exact moment I realized the bottleneck was the management of the ST/MT/LT layers. It’s slow, it’s raw, but the diagnostic is done.
 
 
-26/03/2026
+🪵 2026/03/26 DEV LOG #02: ΩMEGA — Memory Efficiency & Local Sustainability
 
-🪵 DEV LOG #02 : L’Exocortex qui respire (Stress Test 200)
-
-On a poussé ΩMEGA dans ses retranchements : 200 tours de dialogue ininterrompu sur un simple i7. Pas de GPU, pas de Cloud, juste du local pur.
+Objective: Validation of a constant-memory architecture for local LLMs (Mistral 7B) on consumer-grade hardware (Intel i7).
+📊 Performance Analysis (200-Round Stress Test)
 
 https://www.youtube.com/watch?v=Pev7Z3lxKQg
 
-Ce qu'il faut regarder dans la vidéo :
+    Memory Management: Confirmed RAM Homeostasis. The system maintained a footprint between 130MB and 400MB throughout the session. By implementing a tiered "Sedimentation" process (Short-Term → Medium-Term → Long-Term), we bypassed the linear context-growth bottleneck typical of standard RAG or LangChain implementations.
 
-    00:26 : L'Homéostasie RAM. Regardez la courbe. On ne monte jamais au-dessus de 400MB. Pourquoi ? Parce que le système "digère" l'info au lieu de l'empiler.
+    Thermal & Compute Load: The process remained sustainable on a single CPU. Periodic "breathing" cycles allowed for background summarization without causing thermal throttling or system instability.
 
-    00:44 : La Sédimentation. Vous voyez le passage CT (Court Terme) vers MT (Moyen Terme). ΩMEGA compresse le bruit pour ne garder que l'essence. C'est l'anti-LangChain par excellence.
+    Tiered Storage: Successfully demonstrated the automated transition of data through three levels of volatility.
 
-    La Respiration : Le CPU charbonne sur Mistral, puis redescend. Le système ne sature pas, il s'adapte.
+⚠️ Technical Debt & Identified Issues
 
-Le verdict du terrain :
-L'architecture organique est validée. On a encore des couilles sur le dédoublonnage en Long Terme (LT) et la synchro des fichiers de test, mais la preuve est là : On peut faire de l'IA persistante sur une machine de bureau sans l'exploser.
+    Semantic De-duplication: The Long-Term memory (LT) currently lacks a similarity filter, leading to redundant data entries ("echo effect") during high-frequency cycles.
 
-Local. Organique. Souverain. 🛡️
+    Recall Discrepancy: Initial failure in the recall benchmark due to a file-path synchronization error between the test environment and the production database.
+
+    I/O Latency: Peak latencies of 60s observed during concurrent inference and database compression.
