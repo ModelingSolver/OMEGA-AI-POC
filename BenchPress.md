@@ -23,7 +23,7 @@
 ### 🎯 Functional Results
 - **ST Memory (Short-Term):** 100% Fluid.
 - **MT Consolidation (Medium-Term):** 100% Accurate summarization.
-- **LT Recall (Long-Term):** **FAILED** (Path sync error in `test_organique.json`).
+- **LT Recall (Long-Term):** 100% but **RECALL FAILED** (Path sync error in `test_organique.json`).
 - **Semantic Drift:** Observed at Round 180 (needs de-duplication).
 
 ### 📝 Raw Thoughts
