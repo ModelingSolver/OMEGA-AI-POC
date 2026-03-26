@@ -29,3 +29,9 @@
 ### 📝 Raw Thoughts
 "Le système respire enfin. La courbe de RAM n'est plus une rampe vers le crash, c'est un plateau. 
  Le KO contre le RAG classique est validé techniquement, reste à fixer la précision du Recall."
+
+ <img width="1013" height="548" alt="Capture d&#39;écran 2026-03-26 070524" src="https://github.com/user-attachments/assets/d2a09351-2b70-4e9b-90d9-22c2ae92f5bf" />
+
+<img width="1064" height="338" alt="Capture d&#39;écran 2026-03-26 070535" src="https://github.com/user-attachments/assets/a7d434ca-33cf-4bdf-8aa6-44a4c44e824a" />
+
+<img width="1054" height="251" alt="Capture d&#39;écran 2026-03-26 070547" src="https://github.com/user-attachments/assets/210a629e-6c93-44a6-96f2-92ac2410e644" />
