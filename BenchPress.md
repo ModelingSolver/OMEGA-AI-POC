@@ -1,6 +1,12 @@
 # 🏋️‍♂️ ΩMEGA - BenchPress Logs
 
 > "Pushing the boundaries of local inference on legacy hardware."
+>
+> Status: Semi-failure / Semi-success (Accidental DB wipe) 😅
+
+Run Video: Omega Benchpress - [YouTube](https://www.youtube.com/watch?v=Pev7Z3lxKQg)
+
+Note: The Recall failures are due to a complete purge of the test database performed just before the run.
 
 ## 📊 Summary of Records
 - **Max Conversations Rounds:** 200 (Confirmed 26/03/2026)
