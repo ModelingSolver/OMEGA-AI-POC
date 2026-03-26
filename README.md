@@ -304,22 +304,22 @@ timeout=60  # seconds
 
 ## 🗺️ Roadmap
 
-### v0.2 (Q1 2025)
+### v0.2 (Q1 2026)
 - [ ] Streamlit interface for memory visualization
 - [ ] Session export/import
 - [ ] Temporal decay of MT memories
 
-### v0.3 (Q2 2025)
+### v0.3 (Q2 2026)
 - [ ] Multi-user support (profiles)
 - [ ] Multi-document context management
 - [ ] REST API for integrations
 
-### v0.4 (Q3 2025)
+### v0.4 (Q3 2026)
 - [ ] Image support (vision)
 - [ ] Audio support (transcription)
 - [ ] Knowledge graph (Neo4j)
 
-### v1.0 (Q4 2025)
+### v1.0 (Q4 2026)
 - [ ] Production-ready
 - [ ] Desktop application (Electron)
 - [ ] Optional encrypted sync
