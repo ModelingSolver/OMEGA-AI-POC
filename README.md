@@ -4,7 +4,8 @@
 
 The Cyborg Extension for Atypical Brains 🧠❤️
 
-<img width="800" height="452" alt="image" src="https://github.com/user-attachments/assets/810c86f3-7bba-415e-830d-0e3df3d1e7d6" />
+![Omega-Benchpress-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/883f744e-8585-4219-a001-4b973a5fa45e)
+
 
 
 OMEGA is a project aimed at creating a localized, decentralized, and deeply co-emergent Artificial Intelligence, specifically designed as a cognitive extension for atypical brains. https://www.youtube.com/watch?v=-IO6zqIm88s
