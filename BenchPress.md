@@ -16,7 +16,7 @@
 
 ### 📈 Resource Metrics
 - **Initial RAM:** 130 MB
-- **Peak RAM (Round 150):** 412 MB
+- **Peak RAM (Round 5/8):** 403 MB
 - **Final RAM (Round 200):** 388 MB (Sedimentation active)
 - **CPU Temp:** Stable (Breathing cycles functional)
 
