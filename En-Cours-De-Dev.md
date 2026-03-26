@@ -8,20 +8,34 @@ Le constat : Pas de chichi, pas d'interface. Juste le moteur qui s'étouffe sur 
 
 
 
- 🪵 26/03/2026 DEV LOG #02 : L’Exocortex qui respire (Stress Test 200)
+🪵 26/03/2026 DEV LOG #02 : ΩMEGA — Efficience Mémorielle et Souveraineté Locale
 
-On a poussé ΩMEGA dans ses retranchements : 200 tours de dialogue ininterrompu sur un simple i7. Pas de GPU, pas de Cloud, juste du local pur.
+Objectif : Validation d'une architecture à consommation mémoire constante pour LLM local (Mistral 7B) sur matériel grand public (Intel i7).
+📊 Analyse de Performance (Stress Test : 200 tours)
 
 https://www.youtube.com/watch?v=Pev7Z3lxKQg
 
-Ce qu'il faut regarder dans la vidéo :
+    Gestion de la RAM : Homéostasie confirmée. Le système a maintenu une empreinte stable entre 130 Mo et 400 Mo tout au long de la session. Contrairement aux approches RAG classiques ou LangChain, le processus de "Sédimentation" (CT → MT → LT) permet de briser la croissance linéaire du contexte, évitant ainsi la saturation RAM.
 
-00:26 : L'Homéostasie RAM. Regardez la courbe. On ne monte jamais au-dessus de 400MB. Pourquoi ? Parce que le système "digère" l'info au lieu de l'empiler.
+    Charge CPU et Thermique : Le cycle de "respiration" mémorielle permet de lisser la charge. L'alternance entre l'inférence active et la compression en arrière-plan prévient le thermal throttling (bridage thermique) et assure la viabilité du système sur le long terme sans GPU dédié.
 
-00:44 : La Sédimentation. Vous voyez le passage CT (Court Terme) vers MT (Moyen Terme). ΩMEGA compresse le bruit pour ne garder que l'essence. C'est l'anti-LangChain par excellence.
+    Stockage Stratifié : Validation du transfert automatique des données entre trois niveaux de volatilité, garantissant que seules les informations à haute valeur ajoutée atteignent le stockage persistant.
 
-La Respiration : Le CPU charbonne sur Mistral, puis redescend. Le système ne sature pas, il s'adapte.
+⚠️ Dette Technique et Points de Rupture Identifiés
 
-Le verdict du terrain : L'architecture organique est validée. On a encore des couilles sur le dédoublonnage en Long Terme (LT) et la synchro des fichiers de test, mais la preuve est là : On peut faire de l'IA persistante sur une machine de bureau sans l'exploser.
+    Dédoublonnage Sémantique : La mémoire à long terme (LT) manque actuellement d'un filtre de similarité. En cycle de haute fréquence, cela génère des redondances ("effet d'écho") qui polluent la base de connaissances.
 
-Local. Organique. Souverain. 🛡️
+    Divergence du Recall : Échec du test de rappel suite à un conflit de chemin d'accès (désynchronisation entre l'environnement de test et la base de données de production).
+
+    Latence I/O : Des pics à 60s ont été observés lors des phases critiques de compression simultanée à l'inférence.
+
+🛠 Roadmap v2.1 (Correctifs Immédiats)
+
+    Dédoublonnage par Cosine Similarity : Intégration d'un seuil de similarité avant l'insertion en LT pour garantir une base de données "High Signal".
+
+    Unification des Flux DB : Migration vers un flux JSON/SQLite unique pour empêcher toute divergence d'état entre les tests et l'usage réel.
+
+    Optimisation du Greffier : Raffinement des prompts de résumé pour réduire le nombre de tokens générés et abaisser la latence.
+
+Statut : Architecture validée. Optimisation logique en cours.
+Philosophie : Local-first. Privacy by design. Sobriété numérique. 🛡️
