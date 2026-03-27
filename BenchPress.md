@@ -4,7 +4,7 @@
 >
 > Status: Semi-failure / Semi-success (Accidental DB wipe) 😅
 
-Run Video: Omega Benchpress - [YouTube](https://www.youtube.com/watch?v=Pev7Z3lxKQg)
+Run Video: Omega Benchpress - [YouTube](https://www.youtube.com/watch?v=g5IwhkT3ruk)
 
 Note: The Recall failures are due to a complete purge of the test database performed just before the run.
 
