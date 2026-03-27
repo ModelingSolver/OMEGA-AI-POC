@@ -2,6 +2,8 @@
 
 **License:** MIT | **Python:** 3.8+ | **Status:** Alpha (Prototype fonctionnel)
 
+![Omega-Benchpress-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/883f744e-8585-4219-a001-4b973a5fa45e)
+
 > **"Ne pas obtenir une réponse, mais devenir la réponse."**
 
 ΩMEGA est un **exocortex bio-inspiré** — une prothèse cognitive locale qui co-émerge avec son utilisateur. Contrairement aux IA amnésiques classiques, ΩMEGA possède une **mémoire organique à trois niveaux** (Court/Moyen/Long Terme) qui sédimente, consolide et oublie naturellement, comme un cerveau biologique.
