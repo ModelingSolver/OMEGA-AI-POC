@@ -44,3 +44,50 @@ Note : Les échecs de rappel (Recall) sont dus à une purge complète de la base
 
 
 <img width="1054" height="251" alt="Capture d&#39;écran 2026-03-26 070547" src="https://github.com/user-attachments/assets/b011d510-9a8b-4339-9b3e-b44d654ea6ca" />
+
+
+ ## 🧪 Session BP-02 (2026-03-30) - Sprint "Stabilité & Sédimentation"
+
+
+Contexte : Correction de la fuite de données CT → MT et analyse de la précision sémantique.
+
+### 📈 Métriques de Performance
+
+
+    Recall Rate : 33.3% (Passage de 0% à 33.3% — Progression technique confirmée)
+
+
+    RAM Stability : 131 MB (Gestion parfaite de la sédimentation, plus de crash au Round 4)
+
+
+    Memory Slots : Croissance linéaire. La tuyauterie CT -> MT est désormais étanche.
+
+
+### 🎯 Analyse Technique (Post-Mortem)
+
+
+    Victoire : La sédimentation par message individuel fonctionne. Le système ne "perd" plus d'informations lors de l'archivage.
+
+
+    Identification du "Recall Gap" : 1. Data d'entrée : Erreur de formatage sur les données sources, créant un décalage lors de la récupération.
+
+    2. Embedding Agressif : Le modèle d'embedding actuel sature trop vite, ce qui ocasionne des pertes semantiques.
+
+
+    LTD (Long Term Depression) : Probleme de seuils de mécanisme d'oubli actif, causant un élagage insufisant.
+
+
+### 🛠️ Roadmap Sprint BP-02
+
+
+    Normalisation Data : Nettoyage des entrées pour garantir l'alignement sémantique.
+
+
+    Fine-tuning de l'Embedding : Ajustement des seuils de similarité pour réduire l'agressivité du modèle et regagner de la granularité.
+
+
+    Filtre Anti-Doublons LT : Implémentation d'un check avant immortalisation pour éviter la redondance.
+
+
+    "Le saut à 33% valide l'architecture. Le reste est une question de réglage de précision sur l'embedding et de qualité de data."
+
