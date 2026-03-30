@@ -96,3 +96,14 @@ Contexte : Correction de la fuite de données CT → MT et analyse de la précis
 
     "Le saut à 33% valide l'architecture. Le reste est une question de réglage de précision sur l'embedding et de qualité de data."
 
+    
+
+RAM plancher     RAM pic                         Lat. moyenne        Recall
+131 MB           404 MB                          33.8s               PARTIAL
+après T100+      T5–T20 (chargement modèle)      i7 mobile, local    S_RECALL 1/3 · S_PRECISION 1/3
+ 
+<img width="981" height="300" alt="image" src="https://github.com/user-attachments/assets/9cd89062-4ab1-4ad7-a5c0-f6041f99d94e" />
+
+<img width="981" height="272" alt="image" src="https://github.com/user-attachments/assets/75bd961f-d8fc-48cd-ac6e-8cf19c29837e" />
+
+
