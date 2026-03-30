@@ -56,8 +56,13 @@ Contexte : Correction de la fuite de données CT → MT et analyse de la précis
 
     Recall Rate : 33.3% (Passage de 0% à 33.3% — Progression technique confirmée)
 
+    Initial RAM: 357.73 MB
 
-    RAM Stability : 131 MB (Gestion parfaite de la sédimentation, plus de crash au Round 4)
+    Peak RAM (Round 18): 404.31 MB
+
+    Final RAM (Round 239): 134.65 MB (Sedimentation active)
+
+    CPU Temp: Stable (Moyenne 6.97% | Max 56.9% — Cycles de respiration fonctionnels)
 
 
     Memory Slots : Croissance linéaire. La tuyauterie CT -> MT est désormais étanche.
@@ -71,13 +76,13 @@ Contexte : Correction de la fuite de données CT → MT et analyse de la précis
 
     Identification du "Recall Gap" : 1. Data d'entrée : Erreur de formatage sur les données sources, créant un décalage lors de la récupération.
 
-    2. Embedding Agressif : Le modèle d'embedding actuel sature trop vite, ce qui ocasionne des pertes semantiques.
+    2. Embedding Agressif : Le modèle d'embedding actuel sature trop vite, ce qui occasionne des pertes sémantiques.
 
 
     LTD (Long Term Depression) : Probleme de seuils de mécanisme d'oubli actif, causant un élagage insufisant.
 
 
-### 🛠️ Roadmap Sprint BP-02
+### 🛠️ Roadmap Sprint BP-03
 
 
     Normalisation Data : Nettoyage des entrées pour garantir l'alignement sémantique.
