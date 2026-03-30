@@ -78,3 +78,11 @@ Context: Fixed the CT → MT data leakage and analyzed semantic precision.
     LT Anti-Duplication Filter: Implementing a pre-immortalization check to prevent redundancy.
 
     "The jump to 33.3% validates the architecture. The rest is a matter of fine-tuning embedding precision and data quality."
+
+    RAM floor       RAM peak                          Avg. latency        Recall
+    131 MB          404 MB                            33.8s               PARTIAL
+   après T100+      T5–T20 (chargement modèle)        i7 mobile, local    S_RECALL 1/3 · S_PRECISION 1/3
+ 
+<img width="981" height="300" alt="image" src="https://github.com/user-attachments/assets/9cd89062-4ab1-4ad7-a5c0-f6041f99d94e" />
+
+<img width="981" height="272" alt="image" src="https://github.com/user-attachments/assets/75bd961f-d8fc-48cd-ac6e-8cf19c29837e" />
