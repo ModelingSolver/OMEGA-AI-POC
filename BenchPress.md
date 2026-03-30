@@ -41,3 +41,40 @@ Note: The Recall failures are due to a complete purge of the test database perfo
 <img width="1064" height="338" alt="Capture d&#39;écran 2026-03-26 070535" src="https://github.com/user-attachments/assets/a7d434ca-33cf-4bdf-8aa6-44a4c44e824a" />
 
 <img width="1054" height="251" alt="Capture d&#39;écran 2026-03-26 070547" src="https://github.com/user-attachments/assets/210a629e-6c93-44a6-96f2-92ac2410e644" />
+
+
+🧪 Session BP-02 (2026-03-30) - Sprint "Stability & Sedimentation"
+
+Context: Fixed the CT → MT data leakage and analyzed semantic precision.
+📈 Performance Metrics
+
+    Recall Rate: 33.3% (Up from 0% to 33.3% — Technical progression confirmed)
+
+    Initial RAM: 357.73 MB
+
+    Peak RAM (Round 18): 404.31 MB
+
+    Final RAM (Round 239): 134.65 MB (Active Sedimentation)
+
+    CPU Temp: Stable (Average 6.97% | Max 56.9% — "Breathing cycles" fully functional)
+
+    Memory Slots: Linear growth. The CT -> MT pipeline is now fully airtight.
+
+🎯 Technical Analysis (Post-Mortem)
+
+    Success: Individual message sedimentation is operational. The system no longer "drops" information during archiving.
+
+    Recall Gap Identification: 1. Input Data: Formatting errors in source data, creating a mismatch during retrieval.
+    2. Aggressive Embedding: The current embedding model saturates too quickly, causing semantic loss.
+
+    LTD (Long Term Depression): Issues with active forgetting mechanism thresholds, resulting in insufficient pruning.
+
+🛠️ Roadmap Sprint BP-03
+
+    Data Normalization: Cleaning inputs to ensure perfect semantic alignment.
+
+    Embedding Fine-tuning: Adjusting similarity thresholds to reduce model "aggressiveness" and regain granularity.
+
+    LT Anti-Duplication Filter: Implementing a pre-immortalization check to prevent redundancy.
+
+    "The jump to 33.3% validates the architecture. The rest is a matter of fine-tuning embedding precision and data quality."
