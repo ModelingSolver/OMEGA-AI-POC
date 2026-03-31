@@ -47,7 +47,8 @@ Note: The Recall failures are due to a complete purge of the test database perfo
 
 🧪 Session BP-02 (2026-03-30) - Sprint "Stability & Sedimentation"
 
-       [YouTube](https://youtu.be/yhKsKL64AIk?si=AhEkZle1EeQliQY6)
+<https://www.youtube.com/watch?v=yhKsKL64AIk>
+       
 
 Context: Fixed the CT → MT data leakage and analyzed semantic precision.
 📈 Performance Metrics
