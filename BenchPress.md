@@ -46,8 +46,10 @@ Note : Les échecs de rappel (Recall) sont dus à une purge complète de la base
 <img width="1054" height="251" alt="Capture d&#39;écran 2026-03-26 070547" src="https://github.com/user-attachments/assets/b011d510-9a8b-4339-9b3e-b44d654ea6ca" />
 
 
+
  ## 🧪 Session BP-02 (2026-03-30) - Sprint "Stabilité & Sédimentation"
 
+<https://www.youtube.com/watch?v=yhKsKL64AIk>
 
 Contexte : Correction de la fuite de données CT → MT et analyse de la précision sémantique.
 
